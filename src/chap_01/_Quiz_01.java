@@ -1,4 +1,4 @@
-package Chapter_01;
+package chap_01;
 /*
 (실행 결과)
 상암08번 버스
